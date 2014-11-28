@@ -1,4 +1,4 @@
-domainer
+Domainer
 ========
 
 Scan for subdomains
